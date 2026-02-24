@@ -4,6 +4,7 @@ Examining a dataset based around US school funding and performance to attempt to
 ---
 
 ## Data
-https://www.kaggle.com/datasets/noriuk/us-education-datasets-unification-project
+
+You may view the dataset here: [Kaggle Dataset](https://www.kaggle.com/datasets/noriuk/us-education-datasets-unification-project).
 
 ---
